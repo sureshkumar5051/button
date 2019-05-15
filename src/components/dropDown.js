@@ -30,7 +30,7 @@ class dropDown extends Component {
                 <h1> {this.state.category}</h1>
                 <select onChange = {this.dropdownvalue}>
                    {companies.map((item,index)=> {
-                       return <option>{item.name}kdkmkmkskdskm</option>
+                       return <option>{item.name}suresh</option>
                    })}
                 </select>
                
